@@ -1,7 +1,7 @@
 {
   "name": "shallow-goof",
   "version": "0.0.1",
-  "description": "A vulnerable demo application",
+  "description": "A vulnerable demo application to be tested",
   "homepage": "https://snyk.io/",
   "repository": {
     "type": "git",
